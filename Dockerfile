@@ -21,4 +21,4 @@ RUN apk add --no-cache sqlite
 #
 # RUN pip3 install sqlite3
 # RUN pip3 install matplotlib
-
+RUN pip3 install pymysql
